@@ -4,6 +4,8 @@ import Link from 'gatsby-link'
 const Header = ({ siteTitle }) => (
   <div
     style={{
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+      font-family: 'Montserrat', sans-serif;
       background: 'rebeccapurple',
       marginBottom: '1.45rem',
     }}
